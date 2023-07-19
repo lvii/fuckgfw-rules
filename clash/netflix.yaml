@@ -10,6 +10,14 @@ payload:
   - DOMAIN-SUFFIX,nflxso.net
   - DOMAIN-SUFFIX,nflxvideo.net
   - DOMAIN-SUFFIX,netflix.com.edgesuite.net
+  - DOMAIN-SUFFIX,netflixstudios.com
+  - DOMAIN-SUFFIX,netflixtechblog.com
+  - DOMAIN-SUFFIX,flxvpn.net
+  - DOMAIN,netflix.com.edgesuite.net
+  - DOMAIN,h-netflix.online-metrix.net
+  - DOMAIN-SUFFIX,onetrust.com
+  - DOMAIN-SUFFIX,cookielaw.org
+  - DOMAIN,e13252.dscg.akamaiedge.net
   - DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
   - DOMAIN-KEYWORD,dualstack.apiproxy-
   - DOMAIN-KEYWORD,dualstack.apiproxy-device-prod-nlb-
