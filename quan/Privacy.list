@@ -6,17 +6,17 @@ HOST,track.tiara.kakao.com,REJECT
 HOST,zgsdk.zhugeio.com,REJECT
 
 # > Alibaba
-# HOST-KEYWORD,mdc.
-# HOST-KEYWORD,mum.
-HOST-KEYWORD,adash
-HOST,umdc.aliapp.org
-HOST,ynuf.aliapp.org
-HOST,amdc.alipay.com
-HOST,mobilegw.alipay.com
-HOST,mum.m.alibaba.com
-HOST,mum.m.taobao.com
-HOST,audid-api.taobao.com
-HOST,acs.m.taobao.com
+HOST-KEYWORD,mdc.,REJECT
+HOST-KEYWORD,mum.,REJECT
+HOST-KEYWORD,adash,REJECT
+HOST,umdc.aliapp.org,REJECT
+HOST,ynuf.aliapp.org,REJECT
+HOST,amdc.alipay.com,REJECT
+HOST,mobilegw.alipay.com,REJECT
+HOST,mum.m.alibaba.com,REJECT
+HOST,mum.m.taobao.com,REJECT
+HOST,acs.m.taobao.com,REJECT
+HOST,audid-api.taobao.com,REJECT
 
 # > 51.LA
 HOST,js.users.51.la,REJECT
