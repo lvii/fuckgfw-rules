@@ -1,0 +1,77 @@
+# https://github.com/Saming09091/Config/blob/Her/QuantumultX/RuleSet/Privacy.list
+
+# > Privacy
+HOST,track.tiara.daum.net,REJECT
+HOST,track.tiara.kakao.com,REJECT
+HOST,zgsdk.zhugeio.com,REJECT
+
+# > Alibaba
+HOST-KEYWORD,mdc.
+HOST-KEYWORD,mum.
+HOST-KEYWORD,adash
+HOST,umdc.aliapp.org
+HOST,ynuf.aliapp.org
+HOST,amdc.alipay.com
+HOST,mobilegw.alipay.com
+HOST,mum.m.alibaba.com
+HOST,mum.m.taobao.com
+HOST,audid-api.taobao.com
+HOST,acs.m.taobao.com
+
+# > 51.LA
+HOST,js.users.51.la,REJECT
+HOST,mc.51.la,REJECT
+HOST,wc.51.la,REJECT
+
+# > 58
+HOST,track.58.com,REJECT
+HOST,tracklog.58.com,REJECT
+
+# > Baidu
+HOST,hm.baidu.com,REJECT
+HOST,hmma.baidu.com,REJECT
+
+# > ByteDance
+HOST,log.byteoversea.com,REJECT
+HOST,log.tiktokv.com,REJECT
+HOST,log-hl-ipv6.snssdk.com,REJECT
+HOST,log-lq.snssdk.com,REJECT
+HOST,log-va.tiktokv.com,REJECT
+HOST,xlog.snssdk.com,REJECT
+HOST,security.snssdk.com,REJECT
+HOST,gurd.snssdk.com,REJECT
+HOST,i.snssdk.com,REJECT
+HOST,ic.snssdk.com,REJECT
+HOST,mon.snssdk.com,REJECT
+HOST,mon.toutiao.com,REJECT
+HOST,mon.toutiaocloud.com,REJECT
+HOST,mon.toutiaocloud.net,REJECT
+HOST,srp4.snssdk.com,REJECT
+HOST,srp2.snssdk.com,REJECT
+HOST,srp1.snssdk.com,REJECT
+HOST,srp3.snssdk.com,REJECT
+HOST,diamond.snssdk.com,REJECT
+HOST,toutiao-frontier.snssdk.com
+
+# > Google
+#HOST-SUFFIX,googletagmanager.com,REJECT
+#HOST-SUFFIX,google-analytics.com,REJECT
+#HOST,safebrowsing.googleapis.com,REJECT
+
+# > MI
+HOST-SUFFIX,tracking.miui.com,REJECT
+HOST,data.mistat.xiaomi.com,REJECT
+HOST,tracking.intl.miui.com,REJECT
+
+# > Tencent
+HOST,mazu.m.qq.com
+HOST,btrace.qq.com,REJECT
+HOST,btrace.video.qq.com,REJECT
+HOST,mtrace.qq.com,REJECT
+HOST,safebrowsing.urlsec.qq.com,REJECT
+HOST-SUFFIX,trace.qq.com,REJECT
+
+# > Umeng
+HOST-KEYWORD,log.umeng.com,REJECT
+HOST-KEYWORD,logs.umeng.com,REJECT
+HOST-KEYWORD,logs.umengcloud.com,REJECT
