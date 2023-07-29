@@ -6,8 +6,8 @@ HOST,track.tiara.kakao.com,REJECT
 HOST,zgsdk.zhugeio.com,REJECT
 
 # > Alibaba
-HOST-KEYWORD,mdc.
-HOST-KEYWORD,mum.
+# HOST-KEYWORD,mdc.
+# HOST-KEYWORD,mum.
 HOST-KEYWORD,adash
 HOST,umdc.aliapp.org
 HOST,ynuf.aliapp.org
